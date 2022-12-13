@@ -1,5 +1,5 @@
-const user = "durgasaini7976@gmail.com"
-const pass = "hmmpnrgwhkfxwvgc"
+// const user = "enter your gmail"
+// const pass = "enter your password"
 
-exports.user = user
-exports.pass = pass
+// exports.user = user
+// exports.pass = pass
